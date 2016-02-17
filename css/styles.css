@@ -1,0 +1,61 @@
+/*GLOBAL STYLES*/
+
+/*HEADER, MAIN AND FOOTER BY KATIE - 1-26-16*/
+
+a {
+    
+}
+
+body {
+    margin:0px;
+    
+}
+
+h1 {
+    
+}
+
+p {
+    
+}
+
+header {
+    background-color: #FF7900;
+    height:200px;
+}
+
+main {
+    width:90%;
+    margin:20px auto;
+    
+}
+    
+footer {
+    background-color: #FF7900; 
+    height:300px;
+    padding:40px;
+}
+
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    font-size:40px;
+}
+
+/* =========== BUTTON STYLES =========== */
+
+.button {
+    background-color:#000000;
+    padding:15px 23px;
+    border-radius:25px;
+}
+.button:hover {
+    background-color:#FF0033;
+}
+
+/*OTHER STYLES*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto 0px auto;
+}
