@@ -1,5 +1,5 @@
 # Quiq Labs | Fresno, Ca
-## First Draft
+## February 18th Clock-in
 <p>We could just start typing text here.</p>
 
 ### February 17th, 2016
